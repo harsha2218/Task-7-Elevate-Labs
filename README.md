@@ -45,6 +45,8 @@ A small SQLite database file **`sales_data.db`** containing one table:
 
 
 ## 📁 Deliverables
--Python Script / Notebook
--SQLite Database (sales_data.db)
--Bar Chart (sales_chart.png)
+- Python Script / Notebook
+- SQLite Database (sales_data.db)
+- Bar Chart (sales_chart.png)
+
+---
